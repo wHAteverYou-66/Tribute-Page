@@ -1,0 +1,137 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title">FARMERS</h1>
+      <p>The man who provide food for billion lives</p>
+      <figure id="img-div">
+        <img
+          id="image"
+          src="https://images.pexels.com/photos/2804327/pexels-photo-2804327.jpeg?auto=compress&cs=tinysrgb&w=400"
+          alt="Farmer ploughing wheat."
+        />
+        <figcaption id="img-caption">
+          The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings.
+        </figcaption>
+      </figure>
+      <section id="tribute-info">
+        <h3 id="headline">Here's a time line of Farmer's life:</h3>
+        <ul>
+          <li>Born in a rural village in Maharashtra, India, in 1970.</li>
+          <li>Grew up in a farming family, learning the skills and values of agriculture from his parents and grandparents.</li>
+          <li>Attended a local school until the age of 14, when he dropped out to help his father on the farm.</li>
+          <li>Married his childhood sweetheart at the age of 18, and had three children.</li>
+          <li>Inherited his father's land and cattle in 1992, and expanded his farm by buying more acres and machinery.</li>
+          <li>Grew various crops such as wheat, rice, cotton, and sugarcane, and raised dairy cows and poultry.</li>
+          <li>Faced many challenges such as droughts, floods, pests, diseases, and fluctuating market prices.</li>
+          <li>Adopted new technologies and practices such as drip irrigation, organic farming, and crop rotation to improve his productivity and sustainability.</li>
+          <li>Participated in various cooperative societies and farmer associations to advocate for his rights and interests.</li>
+          <li>Received several awards and recognition for his excellence and innovation in farming.
+</li>
+          <li>Retired from active farming in 2020, and handed over the management of his farm to his eldest son.
+</li>
+          <li>Enjoyed spending time with his wife, children, and grandchildren, and teaching them about his farming legacy.</li>
+          <li>Passed away peacefully in 2024, leaving behind a rich and inspiring life story.</li>
+        </ul>
+          <p  class="qoute">
+            “Cultivators of the earth are the most valuable citizens. They are the most vigorous, the most independent, the most virtuous, and they are tied to their country and wedded to its liberty and interests by the most lasting bonds.” 
+          </p>
+          <p  class="said-by">- Thomas Jefferson</p>
+        <h3>
+          If you have time, you should read more about this incredible human
+          being on this
+          <a
+            id="tribute-link"
+            href="https://www.huffpost.com/entry/10-facts-of-life-only-farmers-know-to-be-true_b_7456262"
+            target="_blank"
+            >truth of farmers</a
+          >.
+        </h3>
+      </section>
+    </main>
+  </body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 3.25rem;
+}
+
+.main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+.img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+.img-caption {
+  margin: 15px 0 5px 0;
+}
+
+.headline {
+  margin: 50px 0;
+  text-align: center;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
+
+.qoute, .said-by {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+
+** end of undefined **
+
